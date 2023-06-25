@@ -35,4 +35,3 @@ A list of checkbox items that explain the requirements needed to be met to resol
 **3. Additional Information:**
 <!-- Any additional information about the feature request, such as a link to a Discord discussion, screenshots, etc. -->
 
-<!-- changing the readme lol so that i can get a contribution point for today and keep my github streak...>
